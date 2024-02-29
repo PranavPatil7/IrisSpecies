@@ -202,6 +202,3 @@ Let's see the test data predictions
 - Finally we finishes the iris classification project.
 - We have built a Decision Tree Classifier which performs well with given features petal length and petal width and having the **Training accuracy of 99.11%** and **Testing accuracy of 100%**.
 
-### If you love my work, kindly give a Star to my repository.
-### Facing any issues, feel free to post your issues on my GitHub.
-### Thank you Everyone for seeing my work.
