@@ -1,33 +1,12 @@
 <div align="center"><h1>Iris Species Classification</h1></div>
 
-## Table of Contents
-
-- [Demo](#demo)
-- [Introduction](#introduction)
-- [Motivation](#motivation)
-- [Project Explanation](#project-explanation)
-  - [Data Collection](#data-collection)
-  - [Data Pre processing](#data-pre-processing)
-  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-  - [Feature Observations](#feature-observations)
-  - [Feature Selection](#feature-selection)
-  - [Building Machine Learning Model](#building-machine-learning-model)
-  - [Model Performance](#model-performance)
-  - [Build Optimal Model](#build-optimal-model)
-  - [Predictions](#predictions)
-- [Conclusion](#conclusion)
-
-## Demo
-
-**App Link** - [Iris Species Classifier](https://ashok-machine-learning-project.herokuapp.com/#iris)
 
 ![Iris Gif](../Demos/iris.gif)
 
 ## Introduction
 The Iris flower data set or Fisher’s Iris data set is a multivariate data set introduced by the British statistician, eugenicist, and biologist Ronald Fisher in his 1936 paper the use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.
 
-## Motivation
-This project was started as a motivation for learning Machine Learning Algorithms and to learn the different data preprocessing techniques such as Exploratory Data Analysis, Feature Engineering, Feature Selection, Feature Scaling and finally to build a machine learning model.
+
 
 ## Data Collection
 - The dataset is collected from [Kaggle](https://www.kaggle.com/uciml/iris).
